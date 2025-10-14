@@ -296,7 +296,7 @@
                     </table>
                     <?php
                       // Look for posts
-                      $query_posts  = "SELECT * FROM posts WHERE vis_post = '0' ORDER BY id_post DESC LIMIT 5";
+                      $query_posts  = "SELECT * FROM posts ORDER BY id_post DESC LIMIT 5";
                       $stmt_posts   = $conexao->prepare($query_posts);
                       $stmt_posts->execute();
                       $rs_posts = $stmt_posts->get_result();

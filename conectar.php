@@ -4,6 +4,8 @@ $dbname     = "mimafia"; // DATABASE
 $usuario    = "root"; // USER
 $dbsenha    = ""; // PASSWORD
 
+header('Content-Type: text/html; charset=utf-8');
+
 $URL_GERAL  = "http://localhost/projetos%20antigos/mimafia%20(abr-2014)/"; // SYSTEM URL
 
 $conexao    = mysqli_connect($database, $usuario, $dbsenha, $dbname);

